@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: const Text('I Have Coal'),
         backgroundColor: Colors.blueGrey[900],
       ),
-      backgroundColor: Colors.cyan[700],
+      backgroundColor: Colors.cyan[600],
       body: const Center(
         child: Image(
           image: AssetImage(
